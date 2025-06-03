@@ -1,3 +1,14 @@
+chicken
+beef
+pork
+eggs
 carrot
 onion
 potato
+garlic
+spinach
+cucumber
+brocolli
+chilli
+aubergine
+salmon
